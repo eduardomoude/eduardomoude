@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](https://images.steamusercontent.com/ugc/2467485715240065133/BA8E0CA5BA67CABE0969CDFDBDA0E3886B01FF16/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 <!--
 **eduardomoude/eduardomoude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
